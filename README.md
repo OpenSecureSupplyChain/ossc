@@ -12,4 +12,5 @@ Many of us are already active in various communities with the CNCF, sigstore
 and more.
 
 Expect to find mostly documentation and issues utilised as a medium for
-collaboration.
+collaboration. code is likely just here as a temp home while we try to
+sheppard it upstream into a relevant community (if one exists).
